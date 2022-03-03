@@ -16,4 +16,4 @@ Generating a random password with specific criteria
 -JavaScript 
 
 ## Screenshots
-![Alt text](Assets/CSS/screencapture-github-intisarmohamed-Random-Password-Generator-blob-dev-script2-js-2021-10-03-01_14_40.png)
+![Alt text](Assets/CSS/screencapture-intisarmohamed-github-io-Random-Password-Generator-2022-03-03-13_41_02.png)
