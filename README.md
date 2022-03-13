@@ -1,19 +1,39 @@
 # Random-Password-Generator
 
-## Link to deployed site 
+### Deployed Site 
 https://intisarmohamed.github.io/Random-Password-Generator/
 
-## Overview
-Generating a random password with specific criteria 
+### Overview
+An application that enables employees to generate random passwords based on criteria that they’ve selected. 
 
-## What I have done
-- Created Prompts user to pick a password criteria 
-- Confirmed that there is atleast one password criteria selected 
-- Generated a new password that matches the selected criteria 
-- Added comments throughout my code 
+### Technologies used
+- HTML
+- CSS
+- JavaScript 
+### User Story 
+```
+AS AN employee with access to sensitive data
+I WANT to randomly generate a password that meets certain criteria
+SO THAT I can create a strong password that provides greater security
+```
+### Acceptance Criteria 
+```
+GIVEN I need a new, secure password
+WHEN I click the button to generate a password
+THEN I am presented with a series of prompts for password criteria
+WHEN prompted for password criteria
+THEN I select which criteria to include in the password
+WHEN prompted for the length of the password
+THEN I choose a length of at least 8 characters and no more than 128 characters
+WHEN asked for character types to include in the password
+THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
+WHEN I answer each prompt
+THEN my input should be validated and at least one character type should be selected
+WHEN all prompts are answered
+THEN a password is generated that matches the selected criteria
+WHEN the password is generated
+THEN the password is either displayed in an alert or written to the page
 
-## Technologies used
--JavaScript 
-
-## Screenshots
+```
+### Screenshots
 ![Alt text](Assets/CSS/screencapture-intisarmohamed-github-io-Random-Password-Generator-2022-03-03-13_41_02.png)
